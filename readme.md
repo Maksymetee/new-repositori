@@ -2,7 +2,7 @@
 dedshfkhsdf k 
 sdfsdgsdfg
 
-<<<<<<< HEAD
+
 some more text
 text for fix2
 =======
